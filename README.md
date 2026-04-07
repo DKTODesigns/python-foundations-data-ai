@@ -3,9 +3,8 @@ Python fundamentals for data and AI: NumPy vector operations, loops, functions, 
 # Python Foundations for Data & AI
 
 This repository showcases my transition into data and AI through hands-on Python exercises.
-
-### NumPy Vector Operations
 ![Vector Visualization](numpy-vector-visualization.png)
+### NumPy Vector Operations
 - Array manipulation and slicing using NumPy
 - Vector math including dot product and scalar operations
 - Visualization of vectors using matplotlib
