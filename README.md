@@ -7,7 +7,7 @@ This repository showcases my transition into data and AI through hands-on Python
 ## Projects
 
 ### NumPy Vector Operations
-![Vector Visualization](numpy-vector-operations-preview.png)
+![Vector Visualization](numpy-vector-visualization.png)
 - Array manipulation and slicing using NumPy
 - Vector math including dot product and scalar operations
 - Visualization of vectors using matplotlib
